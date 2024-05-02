@@ -1,3 +1,3 @@
 # Covid-19 Database System
-## Omar Shakir
-## CIS 4331 Final Exam
+Omar Shakir
+CIS 4331 Final Exam
